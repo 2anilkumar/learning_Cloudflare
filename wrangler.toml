@@ -1,0 +1,8 @@
+name = "py-pg-app"
+main = "src/main.py"
+compatibility_date = "2026-10-23"
+compatibility_flags = ["python_workers"]
+
+[[hyperdrive]]
+binding = "HYPERDRIVE"
+id = "REPLACE_WITH_YOUR_HYPERDRIVE_ID"
