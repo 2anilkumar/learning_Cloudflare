@@ -1,4 +1,4 @@
-name = "py-pg-app"
+name = "learning-cloudflare"
 main = "src/main.py"
 compatibility_date = "2026-10-23"
 compatibility_flags = ["python_workers"]
